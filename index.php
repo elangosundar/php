@@ -1,7 +1,7 @@
 <?php
 	
-	$a 	=	5;
+	$a 	=	25;
 	$b 	= 	10;
 	$c 	=	$a+$b;
-	echo $c;
+	echo "Addition". $c;
 ?>
